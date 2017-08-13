@@ -1,0 +1,67 @@
+
+
+.about {
+    align-text: center;
+    background-color: white;
+    margin-left: 140px;
+    margin-right: 85px;
+    padding-left: 0px;
+    padding-right: 20px;
+    width: 80%;
+}
+
+.port {
+  font-family: 'Oswald', sans-serif;
+}
+
+.ex1 {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.image {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+.over {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+   color: white;
+   padding-left: 250px;
+   font-size: 75px;
+   font-weight: 600;
+}
+
+.uder {
+  text-decoration: underline;
+  padding-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.port1 {
+  font-family: 'Bad Script', cursive;
+}
+
+.form {
+  background-color: solid white;
+  margin-left: 140px;
+  margin-right: 85px;
+  padding-left: 0px;
+  padding-right: 20px;
+  width: 80%;
+  margin-top: 30px;
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+p.center {
+  text-align: center;
+}
+
+.back {
+  background-image: url(image/city.jpg);
+}
